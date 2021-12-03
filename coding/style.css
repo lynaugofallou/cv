@@ -1,0 +1,33 @@
+h1{
+	color: inherit;
+	background-color: red;
+}
+div{ width: 75%;
+	padding: 20px;
+	margin:25px auto;
+	background-color:white ;
+	border: solid 1px white;
+	border-radius: 5px;
+	box-shadow: 1px 2px 0px 0px #00000030
+	 }
+h2{
+	color: yellow;
+	font-size:50px; 
+}
+body{ text-align: center;
+
+	<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,100&display=swap');
+</style>
+stroke-linecap: 2.0;
+}
+a {text-decoration: underline;
+}
+div{ width: 75%;
+	padding: 24px;
+	margin:24px auto;
+	background-color:white ;
+	border: solid 1px white;
+	border-radius: 8px;
+	box-shadow: 4px 6px 0px 0px #00000030
+	 }
